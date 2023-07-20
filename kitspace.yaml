@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/CLKGEN01
-summary: null
+summary: ' Single output I2C programmable clock generator. '

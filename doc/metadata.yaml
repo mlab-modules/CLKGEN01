@@ -1,4 +1,4 @@
-description: null
+description: ' Single output I2C programmable clock generator. '
 github_branch: CLKGEN01B
 github_repo: CLKGEN01
 github_url: https://github.com/mlab-modules/CLKGEN01
@@ -19,5 +19,9 @@ mark: 70
 tags:
 - mlab
 - mlab-module
+- clkgen
+- clock
+- clock-generator
+- comm-rf
 title: CLKGEN01
-updated: '2023-07-20T07:41:37.582552+00:00'
+updated: '2023-07-20T07:43:25.986377+00:00'
