@@ -3,6 +3,7 @@ github_branch: CLKGEN01B
 github_repo: CLKGEN01
 github_url: https://github.com/mlab-modules/CLKGEN01
 homepage: false
+image_title: doc/img/CLKGEN01B_top_small.jpg
 images:
 - doc/img/CLKGEN01B_connection_big.jpg
 - doc/img/CLKGEN01A_bottom_small.jpg
@@ -14,7 +15,7 @@ images:
 - doc/img/O1.png
 - doc/img/O2.png
 - fzp/CLKGEN01B.svg
-mark: 50
+mark: 70
 tags:
 - mlab
 - mlab-module
