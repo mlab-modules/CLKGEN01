@@ -8,8 +8,8 @@ images:
 - doc/src/CLKGEN01A_bottom_big.jpg
 - doc/img/CLKGEN01A_QRcode.png
 mark: 40
+replaced: CLKGEN02
 tags:
 - mlab
 - mlab-module
 title: CLKGEN01
-replaced: CLKGEN02
