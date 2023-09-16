@@ -16,6 +16,7 @@ images:
 - doc/img/CLKGEN01B_QRcode.png
 - fzp/CLKGEN01B.svg
 mark: 70
+status: 0
 tags:
 - mlab
 - mlab-module
