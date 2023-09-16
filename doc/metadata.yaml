@@ -16,7 +16,7 @@ images:
 - doc/img/O2.png
 - fzp/CLKGEN01B.svg
 mark: 70
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
