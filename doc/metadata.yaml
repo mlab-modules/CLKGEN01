@@ -5,15 +5,15 @@ github_url: https://github.com/mlab-modules/CLKGEN01
 homepage: false
 image_title: doc/img/CLKGEN01B_top_small.jpg
 images:
-- doc/img/CLKGEN01B_top_small.jpg
 - doc/img/CLKGEN01B_connection_big.jpg
-- doc/img/CLKGEN01B_top_big.jpg
-- doc/img/DG8SAQ_emulator_big.jpg
 - doc/img/CLKGEN01A_bottom_small.jpg
+- doc/img/DG8SAQ_emulator_big.jpg
+- doc/img/CLKGEN01B_top_small.jpg
+- doc/img/CLKGEN01B_top_big.jpg
 - doc/img/CLKGEN01A_bottom_big.jpg
-- doc/img/O2.png
-- doc/img/O1.png
 - doc/img/CLKGEN01B_QRcode.png
+- doc/img/O1.png
+- doc/img/O2.png
 - fzp/CLKGEN01B.svg
 mark: 70
 status: 0
@@ -25,4 +25,4 @@ tags:
 - clock-generator
 - comm-rf
 title: CLKGEN01
-updated: '2023-09-11T00:27:10.663019+00:00'
+updated: '2023-09-16T16:29:33.905298+00:00'
