@@ -1,9 +1,9 @@
 # CLKGEN01 - Single output I2C programmable low-jitter clock generator
 
-![CLKGEN01B](/doc/img/CLKGEN01B_top_big.jpg)
+![CLKGEN01B](doc/img/CLKGEN01B_top_big.jpg)
 
 ## Description
-The CLKGEN01B is a low jitter, single output, I2C programmable clock generator designed for high-end ADC in SDR applications. It is suitable for generating a stable, low-noise clock signal with a wide tunable frequency range.
+The CLKGEN01B is a low-jitter, single-output, I2C programmable clock generator designed for high-end ADC in SDR applications. It is suitable for generating a stable, low-noise clock signal with a wide tunable frequency range.
 
 ## Technical Parameters
 - **Power Voltage:** Max 5V, 160mA
@@ -16,7 +16,7 @@ The CLKGEN01B is a low jitter, single output, I2C programmable clock generator d
 The circuit is optimized for direct connection to a microprocessor with similar or higher output logic levels over the Si5XX chip. A voltage level translator is integrated for applications requiring different voltage levels. The internal lower voltage can be stabilized by the integrated linear voltage stabilizer. The module output is differential, but a single-sided CMOS output chip can be populated.
 
 ### EMI Suppression
-The CLKGEN01B module can be a significant source of noise due to its signal generator nature. Proper EMI isolation is necessary, which can be achieved using a high conductive base like ALBASE.
+The CLKGEN01B module can be a significant source of noise due to its signal-generator nature. Proper EMI isolation is necessary, which can be achieved using a high conductive base like ALBASE.
 
 ### Mechanical Construction
 The module is mounted on a base using four screws. To ensure proper shielding, it is recommended to secure all screws with a conductive base.
